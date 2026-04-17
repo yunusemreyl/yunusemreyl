@@ -23,7 +23,7 @@ I am an **Electrical-Electronics Engineering** student at Burdur Mehmet Akif Ers
 ### 🛠 Featured Projects
 | Project | Category | Description |
 | :--- | :--- | :--- |
-| **[LaptopManagerForHP](https://github.com/yunusemreyl)** | `SPECIAL` | Open-source tool for managing HP laptop features on Linux. |
+| **[OmenCommandCenterforLinux](https://github.com/yunusemreyl)** | `SPECIAL` | Open-source tool for managing HP laptop features on Linux. |
 | **GreenHouse-OS** | `TEKNOFEST` | Modular automation operating system based on RTOS. |
 | **SwarmAgri** | `TEKNOFEST` | Swarm robotics for precision agriculture operations. |
 | **ESP32-S3 Precision Drone** | `TUBITAK 2209-A` | Low-cost precision agriculture drone system. |
