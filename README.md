@@ -1,57 +1,81 @@
 <div align="center">
-  <h1>Hi there, I'm Yunus Emre 👋</h1>
-  <p><b>Electrical-Electronics Engineering Student | Embedded Systems & Linux Enthusiast</b></p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+# YUNUS EMRE YILMAZ
+
+**Electrical-Electronics Engineering Student**  
+**Embedded Systems • Linux • Control-Oriented Development**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-334155?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
 </div>
 
 ---
 
-### 🎓 About Me
-I am an **Electrical-Electronics Engineering** student at Burdur Mehmet Akif Ersoy University, focusing on embedded systems, Linux ecosystems, and Python-based software development.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🛠 **Software Manager** at **GreenHouse-OS** & **SwarmAgri**.
-- 🐧 Linux enthusiast and **GNOME** advocate.
-- 🚀 Developing high-quality projects for **TEKNOFEST** and autonomous systems.
-- 🎯 Aspiring to specialize in control systems 
+## PROFILE
+
+A focused engineering profile with ongoing work in embedded systems, Linux-based development, and autonomous technologies.
+
+- Software Manager at **GreenHouse-OS** and **SwarmAgri**
+- GNOME/Linux ecosystem enthusiast
+- Active contributor to TEKNOFEST-oriented engineering projects
+- Long-term focus: control systems and embedded intelligence
+
+</td>
+<td width="50%" valign="top">
+
+## TECHNICAL STACK
+
+**Languages**  
+`Python` `C/C++` `Bash`
+
+**Tools & Platforms**  
+`Linux (CLI)` `RTOS` `Git` `GitHub`
+
+**Hardware Domain**  
+`Microcontrollers` `Drivers` `Circuit Analysis` `Embedded Systems`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠 Featured Projects
-| Project | Category | Description |
+## FEATURED PROJECTS
+
+| Project | Domain | Summary |
 | :--- | :--- | :--- |
-| **[OmenCommandCenterforLinux](https://github.com/yunusemreyl/OmenCommandCenterforLinux)** | `SPECIAL` | Open-source tool for managing HP laptop features on Linux. |
-| **GreenHouse-OS** | `TEKNOFEST` | Modular automation operating system based on RTOS. |
-| **SwarmAgri** | `TEKNOFEST` | Swarm robotics for precision agriculture operations. |
-| **ESP32-S3 Precision Drone** | `TUBITAK 2209-A` | Low-cost precision agriculture drone system. |
+| **[OmenCommandCenterforLinux](https://github.com/yunusemreyl/OmenCommandCenterforLinux)** | Linux Utility | Open-source utility for managing HP laptop features on Linux. |
+| **GreenHouse-OS** | TEKNOFEST | Modular automation operating system architecture based on RTOS. |
+| **SwarmAgri** | TEKNOFEST | Swarm robotics approach for precision agriculture operations. |
+| **ESP32-S3 Precision Drone** | TÜBİTAK 2209-A | Low-cost precision agriculture drone platform. |
 
 ---
 
-### 💻 Technical Stack
-- **Languages:** `Python`, `C/C++`, `Bash`
-- **Tools & OS:** `Linux (CLI)`, `RTOS`, `Git`, `GitHub`
-- **Hardware:** `Microcontrollers`, `Circuit Analysis`, `Embedded Systems`, `Drivers`
+## GITHUB METRICS
 
----
-
-### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunusemreyl&show_icons=true&theme=tokyonight&count_private=true" alt="Yunus Emre's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yunusemreyl&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemreyl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemreyl&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 📬 Connect with Me
+## CONTACT
+
 <p align="left">
   <a href="mailto:ye.yilmaz@outlook.com">
-    <img src="https://img.shields.io/badge/Email-ye.yilmaz%40outlook.com-blue?style=flat-square&logo=microsoft-outlook" />
+    <img src="https://img.shields.io/badge/Email-ye.yilmaz%40outlook.com-1F2937?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://github.com/yunusemreyl">
-    <img src="https://img.shields.io/badge/GitHub-yunusemreyl-black?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-yunusemreyl-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
