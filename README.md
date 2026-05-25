@@ -96,16 +96,14 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
 
 ---
 
----
 
 ## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunusemreyl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemreyl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemreyl&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="220px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yunusemreyl&theme=tokyonight" alt="Top Languages" height="220px" />
+</div>
 
----
 
 ---
 
