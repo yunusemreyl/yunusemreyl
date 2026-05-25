@@ -74,9 +74,9 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
       <p><em>TEKNOFEST | Multi-Agent Agriculture Robotics</em></p>
       <p>A swarm robotics control and coordination framework tailored to precision agricultural maneuvers, using distributed coordinate-based consensus.</p>
       <p>
+        <img src="https://img.shields.io/badge/Status-Accepted-34d399?style=flat-square" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/ROS-22313F?style=flat-square&logo=ros&logoColor=white" />
-        <img src="https://img.shields.io/badge/Swarm-9C27B0?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -86,9 +86,9 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
       <p><em>TÜBİTAK 2209-A | Precision Farming Flight Platform</em></p>
       <p>Developing a custom, cost-effective, high-precision flight platform driven by an ESP32-S3 microcontroller, optimized for close-range crop monitoring.</p>
       <p>
+        <img src="https://img.shields.io/badge/Status-Conditional%20Approval-fbbf24?style=flat-square" />
         <img src="https://img.shields.io/badge/ESP32--S3-E34F26?style=flat-square&logo=espressif&logoColor=white" />
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hardware-4CAF50?style=flat-square" />
       </p>
     </td>
   </tr>
