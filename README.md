@@ -60,7 +60,7 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/yunusemreyl/OmenCommandCenterforLinux">Omen Command Center for Linux</a></h3>
+      <h3>⚙️ <a href="https://github.com/yunusemreyl/OmenCtl>Omen Control</a></h3>
       <p><em>Linux Utility & Performance Manager</em></p>
       <p>An open-source utility designed to configure fan speeds, power profiles, and core hardware options for HP Omen/Victus laptops running GNU/Linux.</p>
       <p>
@@ -68,17 +68,7 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/GTK-7EBC6F?style=flat-square&logo=gnome&logoColor=white" />
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 <a href="#">GreenHouse-OS</a></h3>
-      <p><em>TEKNOFEST | Real-Time Automation OS</em></p>
-      <p>A modular real-time automation operating system architecture designed for scalable greenhouse environments, incorporating sensor fusion and safety loops.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/RTOS-00897B?style=flat-square&logo=eclipseche&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-FF5722?style=flat-square" />
-      </p>
-    </td>
+      
   </tr>
   <tr>
     <td width="50%" valign="top">
