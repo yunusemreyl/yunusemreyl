@@ -14,9 +14,9 @@
 
 A highly focused **Electrical-Electronics Engineering** student dedicating energy to the intersection of hardware and software. Specializing in high-performance **embedded systems**, real-time operating architectures, Linux-based platform integration, and autonomous, control-oriented robotics development.
 
-*   👨‍💻 **Software Manager** at [GreenHouse-OS](https://github.com/yunusemreyl) & [SwarmAgri](https://github.com/yunusemreyl) (TEKNOFEST platforms).
-*   🐧 **Linux & GNOME Enthusiast** – actively contributing to open-source tools and customized OS experiences.
-*   🎯 **Core Focus**: Control algorithms, hardware-level driver optimization, multi-agent systems, and embedded intelligence.
+* 👨‍💻 **Software Manager** at [GreenHouse-OS](https://github.com/yunusemreyl) & [SwarmAgri](https://github.com/yunusemreyl) (TEKNOFEST platforms).
+* 🐧 **Linux & GNOME Enthusiast** – actively contributing to open-source tools and customized OS experiences.
+* 🎯 **Core Focus**: Control algorithms, hardware-level driver optimization, multi-agent systems, and embedded intelligence.
 
 ---
 
@@ -60,7 +60,7 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/yunusemreyl/OmenCtl>Omen Control</a></h3>
+      <h3>⚙️ <a href="https://github.com/yunusemreyl/OmenCtl">Omen Control</a></h3>
       <p><em>Linux Utility & Performance Manager</em></p>
       <p>An open-source utility designed to configure fan speeds, power profiles, and core hardware options for HP Omen/Victus laptops running GNU/Linux.</p>
       <p>
@@ -68,9 +68,7 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/GTK-7EBC6F?style=flat-square&logo=gnome&logoColor=white" />
       </p>
-      
-  </tr>
-  <tr>
+    </td>
     <td width="50%" valign="top">
       <h3>🌾 <a href="#">SwarmAgri</a></h3>
       <p><em>TEKNOFEST | Multi-Agent Agriculture Robotics</em></p>
@@ -81,7 +79,9 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
         <img src="https://img.shields.io/badge/Swarm-9C27B0?style=flat-square" />
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
       <h3>🛸 <a href="#">ESP32-S3 Precision Drone</a></h3>
       <p><em>TÜBİTAK 2209-A | Precision Farming Flight Platform</em></p>
       <p>Developing a custom, cost-effective, high-precision flight platform driven by an ESP32-S3 microcontroller, optimized for close-range crop monitoring.</p>
