@@ -107,11 +107,16 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
 
 ---
 
+
+
 ## ✉️ Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:ye.yilmaz@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="mailto:2311409016@ogr.mehmetakif.edu.tr">
+    <img src="https://img.shields.io/badge/MAKU-Email-8a2be2?style=for-the-badge&logo=microsoft-academic&logoColor=white" alt="MAKU Email" />
   </a>
   <a href="https://github.com/yunusemreyl">
     <img src="https://img.shields.io/badge/GitHub-yunusemreyl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -121,5 +126,5 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray_latte_footer.svg" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=767b93&height=100&section=footer" width="100%" />
 </p>
