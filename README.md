@@ -14,7 +14,6 @@
 
 A highly focused **Electrical-Electronics Engineering** student dedicating energy to the intersection of hardware and software. Specializing in high-performance **embedded systems**, real-time operating architectures, Linux-based platform integration, and autonomous, control-oriented robotics development.
 
-* 👨‍💻 **Software Manager** at [GreenHouse-OS](https://github.com/yunusemreyl) & [SwarmAgri](https://github.com/yunusemreyl) (TEKNOFEST platforms).
 * 🐧 **Linux & GNOME Enthusiast** – actively contributing to open-source tools and customized OS experiences.
 * 🎯 **Core Focus**: Control algorithms, hardware-level driver optimization, multi-agent systems, and embedded intelligence.
 
