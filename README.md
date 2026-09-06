@@ -59,7 +59,7 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/yunusemreyl/OmenCtl">Omen Control</a></h3>
+      <h3>⚙️ <a href="https://github.com/yunusemreyl/omen-space">OMEN SPACE</a></h3>
       <p><em>Linux Utility & Performance Manager</em></p>
       <p>An open-source utility designed to configure fan speeds, power profiles, and core hardware options for HP Omen/Victus laptops running GNU/Linux.</p>
       <p>
@@ -78,19 +78,6 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
         <img src="https://img.shields.io/badge/ROS-22313F?style=flat-square&logo=ros&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <h3>🛸 <a href="#">ESP32-S3 Precision Drone</a></h3>
-      <p><em>TÜBİTAK 2209-A | Precision Farming Flight Platform</em></p>
-      <p>Developing a custom, cost-effective, high-precision flight platform driven by an ESP32-S3 microcontroller, optimized for close-range crop monitoring.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Conditional%20Approval-fbbf24?style=flat-square" />
-        <img src="https://img.shields.io/badge/ESP32--S3-E34F26?style=flat-square&logo=espressif&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
