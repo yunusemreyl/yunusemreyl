@@ -27,7 +27,7 @@ A highly focused **Electrical-Electronics Engineering** student dedicating energ
     <td width="33%" valign="top">
       <h3>💻 Programming Languages</h3>
       <ul>
-        <li><code>C / C++</code></li>
+        <li><code>Rust - C# </code></li>
         <li><code>Python</code></li>
         <li><code>Bash Scripting</code></li>
       </ul>
